@@ -4,7 +4,7 @@
   "description": "This is an app built out in React-Native to help people keep track of their Blood Glucose levels over time.",
   "main": "index.js",
   "dependencies": {
-    "react-native": "^0.62.2"
+    "react-native": "^0.62.3"
   },
   "devDependencies": {},
   "scripts": {
